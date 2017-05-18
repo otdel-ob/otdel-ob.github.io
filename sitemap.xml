@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url>
+		<loc>https://otdel-ob.github.io/index.html</loc>
+		<lastmod>2017-05-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://otdel-ob.github.io/page-3.html</loc>
+		<lastmod>2017-05-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://otdel-ob.github.io/page-4.html</loc>
+		<lastmod>2017-05-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://otdel-ob.github.io/page-5.html</loc>
+		<lastmod>2017-05-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://otdel-ob.github.io/imsitemap.html</loc>
+		<lastmod>2017-05-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>

@@ -1,0 +1,2 @@
+﻿User-agent: *
+Sitemap: https://otdel-ob.github.io/sitemap.xml
